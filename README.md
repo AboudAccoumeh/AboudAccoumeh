@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AboudAccoumeh.
+Use- 👋 Hi, I’m @AboudAccoumeh.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning.
-- 📫 How to reach me: aboudaccoumeh@gmail.com
+- 📫 How to reach me: aboudaccoumehdev@gmail.com
 
 
 <!---
